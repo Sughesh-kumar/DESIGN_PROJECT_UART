@@ -280,19 +280,21 @@ The Liberty files are present in the library path,<br />
 Step 2 : Creating an SDC File<br />
 Step 3 : Performing Synthesis<br />
 # SIMULATION WAVEFORM:
-![Screenshot 2025-05-27 133333](https://github.com/user-attachments/assets/7397b89e-617f-41e3-84a8-f39300b4047d)
+![Screenshot 2025-05-27 140537](https://github.com/user-attachments/assets/d4637b45-d4cf-4cff-a560-5cd6a09e68f6)
 # SYNTHESIS RTL SCHEMATIC:  
-![Screenshot 2025-05-27 134238](https://github.com/user-attachments/assets/5d08b960-b27c-4f20-90e1-d4113865e8af)
+![Screenshot 2025-05-27 134432](https://github.com/user-attachments/assets/138c2a83-dc92-4fc7-8d58-8caf2bc66afb)
 # AREA REPORT:
-![Screenshot 2025-05-27 134604](https://github.com/user-attachments/assets/86ea6402-f7d7-471a-92cd-fd7fe8e9c93a)
+![image](https://github.com/user-attachments/assets/b015a465-7819-465b-b9c5-62982aef5acb)
 # TIMING REPORT:
 ![Screenshot 2025-05-27 135217](https://github.com/user-attachments/assets/4b0ebc9b-6714-4127-bece-9f870bf641c5)
 # POWER REPORT:
-![Screenshot 2025-05-27 135151](https://github.com/user-attachments/assets/36673670-aeb5-4f0e-b8f7-d6e8b30585a1)
+![image](https://github.com/user-attachments/assets/b670f132-80f8-446b-9530-514773e1baa6)
 # FLOORPLANNING:
-![WhatsApp Image 2025-05-27 at 14 26 49_133d974d](https://github.com/user-attachments/assets/82d77a59-52be-4e89-9dba-eabf1fe4aab6)
+![WhatsApp Image 2025-05-27 at 14 29 00_eecbc7b5](https://github.com/user-attachments/assets/a774745f-5567-4152-b91a-abfae2a76523)
 
-![WhatsApp Image 2025-05-27 at 14 26 48_68d0733d](https://github.com/user-attachments/assets/39bf891e-fb3d-41c9-a829-6d6cdf45409f)
+![WhatsApp Image 2025-05-27 at 14 29 01_bac6cf18](https://github.com/user-attachments/assets/0fce0e04-33cc-418f-9151-f62bb65b999f)
+
+
 # RESULT:
 The functionality of a UART was successfully verified using a test bench and simulated with the nclaunch tool and genus and for innovus created the  floorplanning.
 

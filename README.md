@@ -286,11 +286,12 @@ Step 3 : Performing Synthesis<br />
 # AREA REPORT:
 ![image](https://github.com/user-attachments/assets/b015a465-7819-465b-b9c5-62982aef5acb)
 # TIMING REPORT:
-![Screenshot 2025-05-27 135217](https://github.com/user-attachments/assets/4b0ebc9b-6714-4127-bece-9f870bf641c5)
+![image](https://github.com/user-attachments/assets/71a24c94-755d-41e8-81a9-59bdd1c4b0f6)
 # POWER REPORT:
 ![image](https://github.com/user-attachments/assets/b670f132-80f8-446b-9530-514773e1baa6)
 # FLOORPLANNING:
 ![WhatsApp Image 2025-05-27 at 14 29 00_eecbc7b5](https://github.com/user-attachments/assets/a774745f-5567-4152-b91a-abfae2a76523)
+
 
 ![WhatsApp Image 2025-05-27 at 14 29 01_bac6cf18](https://github.com/user-attachments/assets/0fce0e04-33cc-418f-9151-f62bb65b999f)
 
